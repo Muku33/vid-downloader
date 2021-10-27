@@ -1,2 +1,0 @@
-# vid-downloader
-learning purpose
